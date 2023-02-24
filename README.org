@@ -3,6 +3,10 @@
 
 lidl auto clicker for the bash shell on xorg systems
 
+* Usage
+run *xinput --list* & get the ID for your mouse & keyboard
+add these IDs to the clicker.sh file & run it
+
 * Dependencies
 - bash
 - xinput (xorg-xinput on arch)
