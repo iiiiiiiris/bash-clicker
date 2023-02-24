@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Device IDs can be found using "xinput --list"
-MOUSE_ID=21
-KEYBOARD_ID=14
+MOUSE_ID=YOUR_MOUSE_ID
+KEYBOARD_ID=YOUR_KEYBOARD_ID
 
 # Key to enable/disable auto clicker (F4=default)
 # To the keycode you can use xinput test {keyboard id} & press the key you want to get it
