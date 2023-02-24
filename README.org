@@ -1,0 +1,9 @@
+#+title: Readme
+#+author: iris
+
+lidl auto clicker for the bash shell on xorg systems
+
+* Dependencies
+- bash
+- xinput (xorg-xinput on arch)
+- xdotool
