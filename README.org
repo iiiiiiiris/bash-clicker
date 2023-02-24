@@ -1,4 +1,4 @@
-#+title: Readme
+#+title: bash-clicker
 #+author: iris
 
 lidl auto clicker for the bash shell on xorg systems
